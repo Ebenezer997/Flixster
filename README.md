@@ -30,9 +30,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-*I was having errors in the using of libraries
+
+* I was having errors in the using of libraries
 * The language was fairly new to me which made me face syntax errors
-*
+
 
 ### Open-source libraries used
 
